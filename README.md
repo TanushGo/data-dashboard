@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/TanushGo/data-dashboard/tree/main/Brewery-Search/src/assets)
+![](https://github.com/TanushGo/data-dashboard/tree/main/Brewery-Search/src/assets/Github_video.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
